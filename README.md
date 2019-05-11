@@ -3,6 +3,7 @@ Code for the paper: On Symmetric Losses for Learning from Corrupted Labels
 Authors: Nontawat Charoenphakdee, Jongyeong Lee, Masashi Sugiyama
 
 Implementation for experiments with Cifar-10 and Mnist
+
 Paper link: [ArXiv](https://arxiv.org/abs/1901.09314)
 
 ## Usage
