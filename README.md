@@ -9,7 +9,7 @@ Paper link: [ArXiv](https://arxiv.org/abs/1901.09314)
 
 * install dependency : Python 3.5+, Pytorch 1.0, numpy, PIL, sklearn.
 * run `python main.py --data cifar-10 --epoch 50 --prior 0.65 --opt auc`, which is default.
-* data : mnist (odd vs even), cifar-10 (air-plane vs horse)
+* data : mnist (odd vs even), cifar-10 (airplane vs horse)
 * prior : one of (1.0, 0.0), (0.8, 0.3), (0.7, 0.4), (0.65, 0.45)
 * opt : ber (balanced error rate minimization), auc (area under the receiver operating characteristic curve maximization)
 
