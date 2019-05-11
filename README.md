@@ -1,4 +1,4 @@
-# On Symmetric Losses for Learning from Corrupted Labels without Class Prior Estimation [ICML'19]
+# On Symmetric Losses for Learning from Corrupted Labels [ICML'19]
 Code for the paper: On Symmetric Losses for Learning from Corrupted Labels
 Authors: Nontawat Charoenphakdee, Jongyeong Lee, Masashi Sugiyama
 
